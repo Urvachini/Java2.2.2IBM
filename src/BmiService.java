@@ -3,6 +3,4 @@ public class BmiService {
         double BMI = mas / (height * height);
         return BMI;
     }
-
-
 }
